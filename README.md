@@ -4,7 +4,7 @@ It's time to contact your distant friends!
 
 
 ## 🤔 What is SEQUEN?
-Atlas is an open-source project that enhances Windows by eliminating factors negatively impacting gaming performance. Optimizations include enhanced privacy, usability, performance, and changes for minimal stutters and input lag while focusing on maintaining functionality.
+Sequen is a global messaging application
 
 
 ## 👀 Why Sequen?
