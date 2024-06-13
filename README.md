@@ -1,6 +1,6 @@
 # <img src="https://i.ibb.co.com/PFVLssv/20240611-095110.png" style="width: 200px;" />
 It's time to contact your distant friends!
-<a href="https://sequen.kitaro.me/">Let's start</a>
+<a href="https://sequen.my.id/">Let's start</a>
 
 
 ## 🤔 What is SEQUEN?
